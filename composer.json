@@ -1,0 +1,14 @@
+{
+    "name": "manhtq/classic-editor",
+    "type": "wordpress-plugin",
+    "description": "",
+    "keywords": ["wordpress", "plugin"],
+    "homepage": "https://github.com/manh-trinhquoc/classic-editor",
+    "authors": [{
+        "name": "manhtq",
+        "homepage": "https://github.com/manh-trinhquoc"
+    }],
+    "require": {
+        "php": ">=5.6"
+    }
+}
